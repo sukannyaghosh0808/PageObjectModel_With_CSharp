@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PageObjectModel" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://www.amazon.com/</Value>
+    </Setting>
+    <Setting Name="BROWSER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Edge</Value>
+    </Setting>
+    <Setting Name="email" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">test@gmail.com</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Admin123</Value>
+    </Setting>
+    <Setting Name="practiceURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://trytestingthis.netlify.app/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
